@@ -11,15 +11,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-run npm install to install the needed packages for the app
-
 ```
 
-once all packages have been installed then run npmstart
+1. run **npm _install_** to install the needed packages for the app
+2. once all packages have been installed then run npmstart 
 
+```
 
 ## Deployment
 

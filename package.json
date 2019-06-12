@@ -2,7 +2,7 @@
   "name": "react-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://albarrank.github.io/clicky",
+  "homepage": "http://albarrank.github.io/clicky/index.html",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
