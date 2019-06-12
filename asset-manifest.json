@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/clicky/static/css/main.a636e895.chunk.css",
+    "main.js": "/clicky/static/js/main.b96a7156.chunk.js",
+    "main.js.map": "/clicky/static/js/main.b96a7156.chunk.js.map",
+    "runtime~main.js": "/clicky/static/js/runtime~main.c6956f21.js",
+    "runtime~main.js.map": "/clicky/static/js/runtime~main.c6956f21.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/clicky/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/clicky/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/clicky/index.html",
+    "precache-manifest.360d5016a013de0efb6932030e65dce0.js": "/clicky/precache-manifest.360d5016a013de0efb6932030e65dce0.js",
+    "service-worker.js": "/clicky/service-worker.js",
+    "static/css/main.a636e895.chunk.css.map": "/clicky/static/css/main.a636e895.chunk.css.map",
+    "static/media/Banner.css": "/clicky/static/media/bg.9a30e6c6.png",
+    "static/media/kermit1.png": "/clicky/static/media/kermit1.97fbebb6.png",
+    "static/media/kermit10.png": "/clicky/static/media/kermit10.028e7295.png",
+    "static/media/kermit11.png": "/clicky/static/media/kermit11.f44bbab5.png",
+    "static/media/kermit12.png": "/clicky/static/media/kermit12.67eb2b2b.png",
+    "static/media/kermit2.png": "/clicky/static/media/kermit2.216a5cc0.png",
+    "static/media/kermit3.png": "/clicky/static/media/kermit3.eab3bf7f.png",
+    "static/media/kermit4.png": "/clicky/static/media/kermit4.a721eecc.png",
+    "static/media/kermit5.png": "/clicky/static/media/kermit5.3cc1d4ca.png",
+    "static/media/kermit6.png": "/clicky/static/media/kermit6.fa880712.png",
+    "static/media/kermit7.png": "/clicky/static/media/kermit7.ea67cda7.png",
+    "static/media/kermit8.png": "/clicky/static/media/kermit8.6c1c80c9.png",
+    "static/media/kermit9.png": "/clicky/static/media/kermit9.b6a3c1bf.png"
+  }
+}
